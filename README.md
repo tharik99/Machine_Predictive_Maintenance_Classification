@@ -1,2 +1,2 @@
 # Machine_Predictive_Maintenance_Classification
-Predictive maintenance classification using statistical learning and Bayesian model selection in R.
+This project focuses on predicting industrial machine failures using statistical learning and machine learning classification techniques. It was completed as the ST406 Course Module Project and demonstrates how sensor data can be used to support predictive maintenance decisions in an Industry 4.0 context. The goal is to accurately classify whether a machine will fail based on operational and environmental variables, while also evaluating and interpreting model performance.
